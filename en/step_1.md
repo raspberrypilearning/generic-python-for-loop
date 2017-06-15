@@ -1,6 +1,6 @@
 ### Python - while loop
 
-The purpose of a **for loop** is to repeat code for every item in a list.
+The purpose of a **for loop** is to repeat code for every item in a list. It can also be used to repeat code a number of times. 
 
 #### For loop over a list
 Here is an example of a **for loop** which will print each item in a list. 
@@ -45,7 +45,7 @@ Notice that `range(5)` returns a list of numbers starting from 0 and stopping at
 
 #### For loop over a range starting from 1
 
-Sometimes it's useful to start counting from 1 instead of 0. This **for loop** prints the numbers from
+Sometimes it's useful to start counting from 1 instead of 0. 
 
 ```python
 for i in range(1, 6):
