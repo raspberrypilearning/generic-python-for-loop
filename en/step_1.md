@@ -1,4 +1,4 @@
-### Python - while loop
+### Python - for loop
 
 The purpose of a **for loop** is to repeat code for every item in a list. It can also be used to repeat code a number of times. 
 
