@@ -1,12 +1,11 @@
-title: generic-python-for-loop
+title: Python for loop
 hero_image: images/banner.png
-description: generic-python-for-loop description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: How `for` loops work in Python
+original_url: 
+ingredient: true
+technologies: "python"
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
-ingredient: false
-interests: "jokes/pranks, sports, art/design, photography, games, outside/weather/nature, space, animals, music/sound"
-technologies: "scratch, python, html/css, micro:bit"
-listed: false
+published: false
 steps:
-  - title: Step one
+  - title: For loop
+    duration: 1
