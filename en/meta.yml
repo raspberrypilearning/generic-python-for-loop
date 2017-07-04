@@ -5,7 +5,10 @@ original_url:
 ingredient: true
 technologies: "python"
 theme: cc-prototype
-published: false
+listed: false
+copyedit: false
+interests: ""
+technologies: "python"
 steps:
   - title: For loop
     duration: 1
