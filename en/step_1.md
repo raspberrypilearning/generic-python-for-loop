@@ -1,5 +1,3 @@
-## Python - for loop
-
 The purpose of a **for loop** is to repeat code for every item in a list. It can also be used to repeat code a number of times. 
 
 We often need to repeat a loop a number of times. In Python the `range` function returns a list of numbers that can be used in a `for` loop. 
